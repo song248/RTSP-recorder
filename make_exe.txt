@@ -1,0 +1,1 @@
+pyinstaller --icon=secutv.ico -F -w record.py
