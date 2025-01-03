@@ -8,7 +8,4 @@ real-time stream recording use RTSP
 ```bash
 pyinstaller --icon=secutv.ico -F -w main.py
 ```
-
-<br>
-<br>
 ![main_UI](./ui.png)
